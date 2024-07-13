@@ -60,7 +60,7 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
+github_username: divdevbiz
 location: Wuhan, China
 email: chumpma@gmail.com
 
@@ -135,7 +135,7 @@ paginate: 10
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 plugins:
     - jekyll-github-metadata
     - rouge
